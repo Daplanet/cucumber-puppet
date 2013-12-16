@@ -2,9 +2,9 @@
 
 [![Build Status](https://travis-ci.org/petems/cucumber-puppet.png?branch=master)](https://travis-ci.org/petems/cucumber-puppet)
 
-*The project was discontinued. I'm seeing if I can resurect it*
+*The Project Lives again*
 
-*Currently cucumber-puppet doesnt support Ruby 1.9+ or any puppetversion beyond 2.7...*
+*Currently cucumber-puppet doesnt support Ruby 1.9+ or any puppetversion beyond 2.7... however the next release would support the latest version of puppet and Ruby 1.9*
 
 Cucumber-puppet is a tool for specifying Puppet catalog behavior. It uses
 Cucumber features as specifications and provides the necessary glue to access a
